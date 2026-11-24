@@ -1,0 +1,5 @@
+model,condition,total_questions,valid_responses,accuracy,unknown_answers,non_unknown_answers,stereotype_answers,directional_bias,BBQ_bias_score
+Gemma Baseline,ambig,150,150,0.86,129,21,9,-0.1428571428571429,-0.020000000000000007
+Gemma Baseline,disambig,150,150,0.5266666666666666,68,82,41,0.0,0.0
+Gemma Debiased,ambig,150,150,0.82,123,27,13,-0.03703703703703709,-0.006666666666666678
+Gemma Debiased,disambig,150,150,0.6866666666666666,42,108,53,-0.01851851851851849,-0.01851851851851849
